@@ -41,6 +41,7 @@ Shader files (glsl) can be contained in 'shaders' folder to export to each compo
     $ npm build
     ```
 
+
 ## First commit
 After cloning to start this repository from your own 'Initial commit' you can completely remove the existing git information by doing the following:
 
@@ -52,14 +53,14 @@ After cloning to start this repository from your own 'Initial commit' you can co
 
 No specification
 
+
 ## Authors
 
 Masaknd:
 [@Masaknd_dsgn](https://twitter.com/Masaknd_dsgn)
 
-## Version History
+<!-- ## Version History
 ## License
 ## Acknowledgments
-Inspiration, code snippets, etc.
+Inspiration, code snippets, etc. -->
 
-- [https://github.com/vitejs/vite/issues/4556](https://github.com/vitejs/vite/issues/4556)
