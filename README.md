@@ -12,18 +12,8 @@ React-based three.js boilerplate with jsx/js component files.
 
 1. Clone this repository using git clone - git@github.com:Masaknd/r3f-boilerplate.git <YOUR_PROJECT_NAME>
 2. Move to the newly created directory: cd <YOUR_PROJECT_NAME>
-3. Run npm install to install dependencies
-4. Run npm dev to see the example app
 
-After cloning to start this repository from your own 'Initial commit' you can completely remove the existing git information by doing the following:
-
-## First commit
-After cloning to start this repository from your own 'Initial commit' you can completely remove the existing git information by doing the following:
-
-1. rm -rf .git this will remove the git information for the repository
-2. git init this will start the repository with no history from the current state
-
-### Dependencies
+## Dependencies
 
 - To use pnpm or yarn, change "npm" in package.json > scripts to "pnpm".
 
@@ -45,6 +35,13 @@ build: build mode
 ```
 $ npm build
 ```
+
+## First commit
+After cloning to start this repository from your own 'Initial commit' you can completely remove the existing git information by doing the following:
+
+1. rm -rf .git this will remove the git information for the repository
+2. git init this will start the repository with no history from the current state
+
 
 ## Help
 
