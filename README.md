@@ -5,7 +5,7 @@
 
 ## Description
 
-R3F boilerplate for 3D graphics websites
+R3F boilerplate for 3D graphics websites 
 The file system consists of jsx / js, HTML and CSS for the main structure.
 Shader files (glsl) can be contained in 'shaders' folder to export to each component files.
 
