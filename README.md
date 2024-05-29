@@ -12,8 +12,8 @@ Shader files (glsl) can be contained in 'shaders' folder to export to each compo
 
 ## Getting Started
 
-1. Clone this repository using git clone - git@github.com:Masaknd/r3f-boilerplate.git <YOUR_PROJECT_NAME>
-2. Move to the newly created directory: cd <YOUR_PROJECT_NAME>
+1. Clone this repository using `git clone --depth=1 https://github.com/Masaknd/r3f-boilerplate.git  <YOUR_PROJECT_NAME>`
+2. Move to the newly created directory: `cd <YOUR_PROJECT_NAME>`
 
 
 ## Dependencies
@@ -45,8 +45,8 @@ Shader files (glsl) can be contained in 'shaders' folder to export to each compo
 ## First commit
 After cloning to start this repository from your own 'Initial commit' you can completely remove the existing git information by doing the following:
 
-1. rm -rf .git this will remove the git information for the repository
-2. git init this will start the repository with no history from the current state
+1. `rm -rf .git` this will remove the git information for the repository
+2. `git init` this will start the repository with no history from the current state
 
 
 ## Help
