@@ -23,23 +23,15 @@ Shader files (glsl) can be contained in 'shaders' folder to export to each compo
     ### Installing
 
     install node modules<br>
+    `npm install`
 
-    ```
-    $npm install
-    ```
     ### Executing program
 
     Development mode
-
-    ```
-    $ npm dev
-    ```
+    `npm dev`
 
     Build mode
-
-    ```
-    $ npm build
-    ```
+    `npm build`
 
 
 ## First commit
