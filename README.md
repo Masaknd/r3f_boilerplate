@@ -54,4 +54,3 @@ Masaknd:
 ## License
 ## Acknowledgments
 Inspiration, code snippets, etc. -->
-# -r3f_profileHero
